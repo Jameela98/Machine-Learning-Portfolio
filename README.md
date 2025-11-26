@@ -42,4 +42,4 @@ To explore these projects yourself:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/USERNAME/Machine-Learning-Portfolio.git
+git clone https://github.com/Jameela98/Machine-Learning-Portfolio.git
